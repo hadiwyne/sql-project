@@ -47,6 +47,3 @@ The primary goal is to support business decisions with data-driven insights.
    ├── chinook_db_investigation.ipynb
    ├── Chinook_Sqlite.sqlite
    ├── README.md
-
-
-
