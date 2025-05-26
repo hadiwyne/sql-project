@@ -31,21 +31,22 @@ The primary goal is to support business decisions with data-driven insights.
    cd chinook_db_investigation
 
 2. Install the required libraries (preferably in a virtual environment):
-```bash
+   ```bash
    pip install pandas matplotlib seaborn
 
 3. Run the Jupyter Notebook:
-```bash
+   ```bash
    jupyter notebook chinook_db_investigation.ipynb
 
 4. Ensure you have the Chinook database file `Chinook_Sqlite.sqlite` in the same directory as the notebook.
 
 ## Repository Structure
-```bash
+
+   ```bash
    .
-├── chinook_db_investigation.ipynb
-├── Chinook_Sqlite.sqlite
-├── README.md
+   ├── chinook_db_investigation.ipynb
+   ├── Chinook_Sqlite.sqlite
+   ├── README.md
 
 
 
